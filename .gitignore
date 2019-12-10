@@ -1,1 +1,9 @@
+# 档案名称： .gitignore
+
+# git隐藏文档
 .git/
+
+# tmp 临时文件夹
+tmp/
+
+
